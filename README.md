@@ -1,4 +1,9 @@
 # Live2d-TTS-Audio-LipSync
+
+效果图:
+
+![live2d效果图](https://github.com/zhao896632126/Live2d-TTS-Audio-LipSync/assets/52819392/e3bdbf00-7bc9-4fa0-843e-aecd3414db4c)
+
 使用Live2d-Pixi-display插件，整合科大讯飞在线TTS，播放并实时口型同步案例
 
 1.安装Node.js
